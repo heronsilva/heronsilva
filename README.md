@@ -14,14 +14,9 @@ Recently, I have become interested in Software Design, TypeScript and some more 
 
 #### Github Stats
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex-grow: 1; flex-shrink: 1; flex-basis: 0;">
-    <img style="display: block;" src="https://github-readme-stats.vercel.app/api?username=heronsilva&count_private=true&show_icons=true">
-  </div>
-
-  <div style="flex-grow: 1; flex-shrink: 1; flex-basis: 0;">
-    <img style="display: block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heronsilva">
-  </div>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heronsilva&show_icons=true&theme=gradient&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heronsilva&layout=compact&langs_count=7&theme=gradient">
 </div>
 
 
