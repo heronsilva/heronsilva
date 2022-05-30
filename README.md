@@ -24,10 +24,7 @@
 
 ### About Me
 
-I'm currently working at [Vizir](https://vizir.com.br) as a Full Stack Developer.
-
-Recently, I have become interested in Software Design, TypeScript and some more Linux stuff.
-
+I'm currently working as a Software Engineer.
 
 ### Github Stats
 
