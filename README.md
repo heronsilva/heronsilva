@@ -30,9 +30,9 @@ I'm currently working as a Software Engineer.
 
 <div>
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=heronsilva&show_icons=true&theme=gradient&include_all_commits=true&count_private=true" />
+       src="https://github-readme-stats.vercel.app/api?username=heronsilva&show_icons=true&theme=gradient&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR" />
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=heronsilva&layout=compact&langs_count=7&theme=gradient" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=heronsilva&layout=compact&langs_count=7&theme=gradient&role=OWNER,COLLABORATOR" />
 </div>
 
 
