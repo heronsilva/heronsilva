@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there, I'm Heron 👋
+  Hi there 👋 I'm Heron
 </h1>
 
 <p align="center">
@@ -11,13 +11,7 @@
   <a href="mailto:heron.code@outlook.com"
      alt="E-mail"
      target="_blank">
-    <img
-         src="https://img.shields.io/badge/Email%20Me-0078D4.svg?&style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
-  </a>
-  <a href="https://heronsilva.github.io"
-     alt="Personal Website"
-     target="_blank">
-    <img src="https://img.shields.io/badge/Website-A9225C.svg?&style=for-the-badge&logo=safari&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email%20Me-0078D4.svg?&style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
 </p>
 
