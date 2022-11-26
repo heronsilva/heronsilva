@@ -24,9 +24,9 @@ I'm currently working as a Software Engineer.
 
 <div>
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=heronsilva&show_icons=true&theme=gradient&include_all_commits=true&count_private=true&include_orgs=true" />
+       src="https://github-readme-stats.vercel.app/api?username=heronsilva&include_all_commits=true&count_private=true&include_orgs=true&show_icons=true&theme=flag-india" />
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=heronsilva&layout=compact&langs_count=7&theme=gradient&include_orgs=true" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=heronsilva&langs_count=7&include_orgs=true&layout=compact&theme=flag-india" />
 </div>
 
 
