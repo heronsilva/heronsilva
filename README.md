@@ -1,24 +1,10 @@
-<h1 align="center">
-  Hi there 👋 I'm Heron
-</h1>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/heronsilva"
-     alt="LinkedIn"
-     target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:heron.code@outlook.com"
-     alt="E-mail"
-     target="_blank">
-    <img src="https://img.shields.io/badge/Email%20Me-0078D4.svg?&style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
-  </a>
-</p>
+#  Hi there 👋 I'm Heron
 
 
 ### About Me
 
 I'm currently working as a Software Engineer.
+
 
 ### Github Stats
 
