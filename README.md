@@ -50,3 +50,18 @@ I'm currently working as a Software Engineer.
        width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 </div>
+
+
+### Get in touch
+<div>
+  <a href="mailto:heron.code@outlook.com"
+     alt="E-mail"
+     target="_blank">
+    <img src="https://img.shields.io/badge/Email%20Me-0078D4.svg?&style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/heronsilva"
+     alt="LinkedIn"
+     target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
