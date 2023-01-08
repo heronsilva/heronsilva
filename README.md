@@ -15,10 +15,6 @@ I'm currently working as a Software Engineer.
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=heronsilva&langs_count=7&include_orgs=true&layout=compact&theme=flag-india" />
 </div>
 
-### Metrics
-
-![Metrics](https://metrics.lecoq.io/heronsilva?template=classic&isocalendar=1&habits=1&people=1&repositories=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=half-year&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=chartist&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=true&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&config.timezone=America%2FSao_Paulo&config.twemoji=true&config.octicon=true&config.display=columns)
-
 
 ### Favorite Technologies
 
