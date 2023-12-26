@@ -9,10 +9,11 @@ I'm currently working as a Software Engineer.
 ### Stats
 
 <div>
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=heronsilva&include_all_commits=true&count_private=true&include_orgs=true&show_icons=true&theme=flag-india" />
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=heronsilva&langs_count=7&include_orgs=true&layout=compact&theme=flag-india" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=heronsilva&hide_border=true&theme=flag-india">
+</div>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heronsilva&include_all_commits=true&count_private=true&include_orgs=true&show_icons=true&hide_border=false&theme=flag-india">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heronsilva&show_icons=true&include_orgs=true&layout=compact&hide_border=false&theme=flag-india">
 </div>
 
 
