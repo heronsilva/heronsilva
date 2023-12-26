@@ -16,21 +16,21 @@ I'm currently working as a Software Engineer.
 </div>
 
 
-### Favorite Technologies
+### Tech Stack
 
 <div>
+    <img align="center"
+       alt="Node.JS"
+       title="Node.JS"
+       height="30"
+       width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" />
   <img align="center"
        alt="Typescript"
        title="Typescript"
        height="30"
        width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
-  <img align="center"
-       alt="Node.JS"
-       title="Node.JS"
-       height="30"
-       width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" />
   <img align="center"
        alt="C#"
        title="C#"
@@ -43,6 +43,30 @@ I'm currently working as a Software Engineer.
        height="30"
        width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" />
+  <img align="center"
+       alt="MySQL"
+       title="MySQL"
+       height="30"
+       width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+  <img align="center"
+       alt="MongoDB"
+       title="MongoDB"
+       height="30"
+       width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img align="center"
+     alt="Amazon Web Services (AWS)"
+     title="Amazon Web Services (AWS)"
+     height="30"
+     width="40"
+     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" />
+  <img align="center"
+     alt="Google Cloud (GCP)"
+     title="Google Cloud (GCP)"
+     height="30"
+     width="40"
+     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" />
   <img align="center"
        alt="Linux"
        title="Linux"
