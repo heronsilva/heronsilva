@@ -50,7 +50,7 @@ I'm currently working as a Software Engineer.
      title="Amazon Web Services (AWS)"
      height="30"
      width="40"
-     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" />
+     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img align="center"
      alt="Google Cloud (GCP)"
      title="Google Cloud (GCP)"
