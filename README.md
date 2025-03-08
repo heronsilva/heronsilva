@@ -9,7 +9,7 @@ I'm currently working as a Software Engineer.
 ### Tech Stack
 
 <div>
-    <img align="center"
+  <img align="center"
        alt="Node.JS"
        title="Node.JS"
        height="40"
@@ -39,6 +39,7 @@ I'm currently working as a Software Engineer.
        height="40"
        width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" />
+  <br /><br />
   <img align="center"
        alt="Postgres"
        title="Postgres"
@@ -57,18 +58,19 @@ I'm currently working as a Software Engineer.
        height="40"
        width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
+  <br /><br />
   <img align="center"
-     alt="Amazon Web Services (AWS)"
-     title="Amazon Web Services (AWS)"
-     height="40"
-     width="40"
-     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+       alt="Amazon Web Services (AWS)"
+       title="Amazon Web Services (AWS)"
+       height="40"
+       width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img align="center"
-     alt="Google Cloud (GCP)"
-     title="Google Cloud (GCP)"
-     height="40"
-     width="40"
-     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" />
+       alt="Google Cloud (GCP)"
+       title="Google Cloud (GCP)"
+       height="40"
+       width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" />
   <img align="center"
        alt="Linux"
        title="Linux"
@@ -79,6 +81,7 @@ I'm currently working as a Software Engineer.
 
 
 ### Get in touch
+
 <div>
   <a href="mailto:heron.code@outlook.com"
      alt="E-mail"
