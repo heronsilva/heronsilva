@@ -8,6 +8,18 @@ I'm currently working as a Software Engineer.
 
 ### Tech Stack
 
+[![Programming Languages](https://skillicons.dev/icons?i=nodejs,typescript,javascript,cs,lua&theme=light)](https://skillicons.dev)
+
+[![Databases](https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,nats,s3&theme=light)](https://skillicons.dev)
+
+[![General Infrastructure](https://skillicons.dev/icons?i=gcp,aws,docker,linux&theme=light)](https://skillicons.dev)
+
+
+### Learning
+
+[![Currently studying](https://skillicons.dev/icons?i=python,go&theme=light)](https://skillicons.dev)
+
+<!--
 <div>
   <img align="center"
        alt="Node.JS"
@@ -86,6 +98,7 @@ I'm currently working as a Software Engineer.
        width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 </div>
+-->
 
 
 ### Get in touch
