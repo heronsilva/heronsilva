@@ -99,15 +99,36 @@ I'm currently working as a Software Engineer.
 ### Get in touch
 
 <div>
-  <a href="mailto:heron.code@outlook.com"
-     alt="E-mail"
-     target="_blank">
-    📩 heron.code@outlook.com
-  </a>
-  <br>
-  <a href="https://www.linkedin.com/in/heronsilva"
-     alt="LinkedIn"
-     target="_blank">
-    💼 linkedin.com/in/heronsilva
+  <a
+    aligh="left"
+    href="mailto:heron.code@outlook.com"
+    target="_blank"
+    rel="noreferrer noopener"
+    ><img
+      src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/at.svg"
+      alt="Email"
+      width="28"
+      height="28" /></a
+  >&nbsp;<a
+    aligh="left"
+    href="https://www.linkedin.com/in/heronsilva"
+    target="_blank"
+    rel="noreferrer noopener"
+    ><img
+      src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/linkedin.svg"
+      alt="LinkedIn"
+      width="28"
+      height="28" /></a
+  >&nbsp;<a
+    aligh="left"
+    href="https://blog.heron.foo"
+    target="_blank"
+    rel="noreferrer noopener"
+    ><img
+      src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/globe.svg"
+      alt="Website"
+      width="28"
+      height="28"
+    />
   </a>
 </div>
