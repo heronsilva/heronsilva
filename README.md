@@ -12,12 +12,7 @@ I'm currently working as a Software Engineer.
 
 [![Databases](https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,nats,s3&theme=light)](https://skillicons.dev)
 
-[![General Infrastructure](https://skillicons.dev/icons?i=gcp,aws,docker,linux&theme=light)](https://skillicons.dev)
-
-
-### Learning
-
-[![Currently studying](https://skillicons.dev/icons?i=python,go&theme=light)](https://skillicons.dev)
+[![General Infrastructure](https://skillicons.dev/icons?i=aws,gcp,docker,linux&theme=light)](https://skillicons.dev)
 
 <!--
 <div>
@@ -107,11 +102,12 @@ I'm currently working as a Software Engineer.
   <a href="mailto:heron.code@outlook.com"
      alt="E-mail"
      target="_blank">
-    <img src="https://img.shields.io/badge/Email%20Me-0078D4.svg?&style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+    📩 heron.code@outlook.com
   </a>
+  <br>
   <a href="https://www.linkedin.com/in/heronsilva"
      alt="LinkedIn"
      target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    💼 linkedin.com/in/heronsilva
   </a>
 </div>
