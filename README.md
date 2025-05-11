@@ -292,18 +292,12 @@ I'm currently working as a Software Engineer.
   </p>
   <div>
     <p style="padding: 0; margin-bottom: 4px;">
-      <a href="mailto:heron.code@outlook.com" style="text-decoration: none; font-size: 1em;">
-        <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" style="height: 16px; width: 16px; display: inline-block; vertical-align: middle;">
-        <span>heron.code@outlook.com</span>
-      </a>
+      <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" style="height: 16px; width: 16px; display: inline-block; vertical-align: middle;">
+      <a href="mailto:heron.code@outlook.com" style="text-decoration: none; font-size: 1em; display: inline-block; vertical-align: middle;">heron.code@outlook.com</a>
     </li>
     <p style="padding: 0; margin-bottom: 4px;">
-      <a href="https://www.linkedin.com/in/heronsilva" target="_blank" style="text-decoration: none; font-size: 1em;">
-        <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" style="height: 16px; width: 16px; display: inline-block; vertical-align: middle;">
-        <span style="display: inline-block; vertical-align: middle;">
-          linkedin.com/in/heronsilva
-        </span>
-      </a>
+      <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" style="height: 16px; width: 16px; display: inline-block; vertical-align: middle;">
+      <a href="https://www.linkedin.com/in/heronsilva" target="_blank" style="text-decoration: none; font-size: 1em; display: inline-block; vertical-align: middle;">linkedin.com/in/heronsilva</a>
     </li>
   </div>
 </div>
