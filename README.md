@@ -85,6 +85,7 @@ I'm currently working as a Software Engineer.
       title="Express.js"
       height="32"
       width="32"
+      style="background-color: #fff; padding: 0 4px; border-radius: 4px;"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
     /></a>
   &nbsp;
@@ -289,14 +290,20 @@ I'm currently working as a Software Engineer.
   <p style="font-size: 1.1em;">
     Whether you have a project idea or just want to say hi, feel free to reach out.
   </p>
-  <div style="display: inline-flex; gap: 16px;">
-    <a href="mailto:heron.code@outlook.com" style="text-decoration: none; padding: 12px 24px; border-radius: 4px; font-size: 1em; font-weight: bold; display:inline-block; display: flex; gap: 8px; background-color: #0078D4; color: #fff;">
-      📨&nbsp;&nbsp;Email
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/heronsilva" target="_blank" style="text-decoration: none; padding: 12px 24px; border-radius: 4px; font-size: 1em; font-weight: bold; display: flex; align-items: center; gap: 8px; background-color: #0A66C2; color: #fff;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" alt="LinkedIn" style="height: 16px; width: 16px;">
-      LinkedIn
-    </a>
+  <div>
+    <p style="padding: 0; margin-bottom: 4px;">
+      <a href="mailto:heron.code@outlook.com" style="text-decoration: none; font-size: 1em;">
+        <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" style="height: 16px; width: 16px; display: inline-block; vertical-align: middle;">
+        <span>heron.code@outlook.com</span>
+      </a>
+    </li>
+    <p style="padding: 0; margin-bottom: 4px;">
+      <a href="https://www.linkedin.com/in/heronsilva" target="_blank" style="text-decoration: none; font-size: 1em;">
+        <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" style="height: 16px; width: 16px; display: inline-block; vertical-align: middle;">
+        <span style="display: inline-block; vertical-align: middle;">
+          linkedin.com/in/heronsilva
+        </span>
+      </a>
+    </li>
   </div>
 </div>
