@@ -278,19 +278,24 @@ I'm currently working as a Software Engineer.
     /></a>
 </p>
 
+<br>
+
 ### Let's Connect
 
-<div style="background: #f7f7f7; padding: 24px; border-radius: 10px; text-align: center; margin-top: 32px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-  <p style="font-size: 1.1em; margin-bottom: 20px; color: #333;">
-    I'd love to hear from you! Whether you have a project idea or just want to say hi, feel free to reach out.
+<div>
+  <p style="font-size: 1.1em;">
+    I'd love to hear from you!
+  </p>
+  <p style="font-size: 1.1em;">
+    Whether you have a project idea or just want to say hi, feel free to reach out.
   </p>
   <div style="display: inline-flex; gap: 16px;">
-    <a href="mailto:heron.code@outlook.com" style="text-decoration: none; padding: 12px 24px; border-radius: 4px; font-size: 1em; font-weight: bold; display: flex; align-items: center; gap: 8px; background-color: #0078D4; color: #fff;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/outlook/outlook-plain.svg" alt="Email" style="height: 20px; width: 20px;">
-      Email Me
+    <a href="mailto:heron.code@outlook.com" style="text-decoration: none; padding: 12px 24px; border-radius: 4px; font-size: 1em; font-weight: bold; display:inline-block; display: flex; gap: 8px; background-color: #0078D4; color: #fff;">
+      📨&nbsp;&nbsp;Email
     </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/heronsilva" target="_blank" style="text-decoration: none; padding: 12px 24px; border-radius: 4px; font-size: 1em; font-weight: bold; display: flex; align-items: center; gap: 8px; background-color: #0A66C2; color: #fff;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" alt="LinkedIn" style="height: 20px; width: 20px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" alt="LinkedIn" style="height: 16px; width: 16px;">
       LinkedIn
     </a>
   </div>
