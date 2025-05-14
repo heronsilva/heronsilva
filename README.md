@@ -2,7 +2,12 @@
 
 ### About Me
 
-I'm currently working as a Software Engineer.
+I'm a Software Engineer focused on writing clear, maintainable code and understanding systems deeply.
+
+Always learning, always trying to sharpen my skills, and always keeping an eye on where the industry’s headed.
+
+Occasionally surprised when things work out on the first try, but I'm still investigating why
+
 
 ### Tech Stack:
 
